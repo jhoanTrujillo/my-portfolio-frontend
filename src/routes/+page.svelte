@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang=ts>
+
+</script>
+
+<div class="flex flex-col justify-center p-10">
+	<h2 class="h1">I'll make something cool!</h2>
+	<h3 class="h3">Come back later.</h3>
+</div>
